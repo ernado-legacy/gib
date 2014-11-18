@@ -1,0 +1,1 @@
+faq/content/post/techs.md
